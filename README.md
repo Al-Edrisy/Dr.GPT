@@ -1,6 +1,4 @@
-sabit idris 
-girne 
-0009300939
+
 # Dr.GPT - Healthcare Advice App
 
 Welcome to the **Dr.GPT** repository! This app provides AI-powered health advice, personalized health tips, and allows users to schedule appointments and reminders. It uses AI to simulate a health consultation, offering guidance on various health topics, while also providing personalized health tips based on the user’s lifestyle and medical history.
